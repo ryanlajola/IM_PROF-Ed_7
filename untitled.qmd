@@ -1,0 +1,23 @@
+---
+title: "Surface Area of a cone"
+author: "Ryan Jhon Lee N. Lajola"
+format: html
+editor: visual
+number-sections: true
+---
+
+# Introduction
+
+Recall now that the lateral area for a regular pyramid is given by $L=\frac{1}{2}lP$. For a riht circular cone, consider an inscribed regular pyramid as in Figure 9.32. As the number of sides of the inscribed polygon's base grows larger, the perimeter of the inscribed polygon approaches the circumference of the circle as a limit. In addition, the slant height of the congruent triangular faces approaches that of the slant height of the cone. Thus, the lateral area of the right circular cone can be compared to $L=\frac{1}{2}lP$ ; for the cone, we have
+
+$L=\frac{1}{2}lC$
+
+in which C is the circumference of the base. The fact that $C = 2\pi r$ leads to
+
+$$L = \frac{1}{2}l (2\pi r)$$ $$L = \pi l$$
+
+::: {.panel-tabset}
+
+## Image
+
+![](crossref-figure.png)
