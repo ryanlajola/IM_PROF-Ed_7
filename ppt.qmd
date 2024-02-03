@@ -1,9 +1,8 @@
 ---
-title: "Surface Area of a cone"
+title: "Surface of a Cone"
 author: "Ryan Jhon Lee N. Lajola"
-format: pdf
+format: pptx
 editor: visual
-number-sections: true
 ---
 
 # Introduction
@@ -14,7 +13,7 @@ Recall now that the lateral area for a regular pyramid is given by $L=\frac{1}{2
 
 in which C is the circumference of the base. The fact that $C = 2\pi r$ leads to
 
-$$L = \frac{1}{2}l (2\pi r)$$ $$L = \pi l$$\
+$$L = \frac{1}{2}l (2\pi r)$$ $$L = \pi l$$
 
 ![](cone2.png)
 
